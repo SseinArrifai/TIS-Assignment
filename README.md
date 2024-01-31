@@ -1,3 +1,5 @@
+## if you can't view the files, please use microsoft edge or other browsers to open it
+
 <h3 align="centre">ASSIGNMENTS REFLECTION</h3>
 
 <h3 align="left">Assignment 1. Industrial Talk-1 (Clarity Techworks) reflection:</h3>
