@@ -28,6 +28,9 @@ Overall, these activities have enriched our academic journey, providing insights
   <h3 align="left">Design Thinking reflection:</h3>
   <h3 align="left">This project has been crucial in emphasizing the need for simplicity and user-friendly design, especially when it comes to improving the user experience while creating customized diet. Working together with possible users highlighted how flexible the design process is and how important customized features are. Especially, the development of workout plans was prioritized, along with a strong emphasis on streamlining the registration and login procedures to improve accessibility. These observations will continue to inform improvements as the project moves toward higher-fidelity prototypes, ultimately forming a website that guarantees smooth user interactions while also improving the planning of workouts and diets.</h3>
 
+  
+<h3 align="left">PC Assembly reflection:</h3>
+<h3 align="left">PC disassembly and assembly highlight problem-solving abilities, flexibility, and attention to detail by revealing the complex form of components. The components connection reflects the complexity of existence and emphasizes the value of a comprehensive understanding. Engaging with concrete hardware provides me a refreshing break from our increasingly virtual world. 
 
   
 
